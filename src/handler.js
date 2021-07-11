@@ -23,10 +23,10 @@ const addNoteHandler = (request, h) => {
 
   if (isSuccess) {
     const response = h.response({
-      status: 'sucess',
+      status: 'success',
       message: 'Catatan berhasil ditambahkan',
       data: {
-        notedId: id,
+        noteId: id,
       },
     });
 
@@ -44,7 +44,7 @@ const addNoteHandler = (request, h) => {
 };
 
 const getAllNotesHandler = () => ({
-  status: 'sucess',
+  status: 'success',
   data: {
     notes,
   },
@@ -99,7 +99,7 @@ const editNoteByIdHandler = (request, h) => {
   }
   const response = h.response({
     status: 'fail',
-    message: 'Gagal memperbarui catatai. Id tidak ditemukan',
+    message: 'Gagal memperbarui catatan. Id tidak ditemukan',
   });
 
   response.code(404);
@@ -124,7 +124,7 @@ const deletetNoteByIdHandler = (request, h) => {
   }
   const response = h.response({
     status: 'fail',
-    message: 'Catatan gagaldihapus. Id tidak ditemukan',
+    message: 'Catatan gagal dihapus. Id tidak ditemukan',
   });
 
   response.code(404);
