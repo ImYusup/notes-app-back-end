@@ -1,6 +1,6 @@
 # Notes-App-Back-End
 
-Here is repository Web Service Development with CRUD function by Node.js to deploy into AWS
+Here is repository Web Service Development with CRUD functions by Node.js to deploy into AWS.
 
 **Prerequisites**
 * Web Server by Node.js.
