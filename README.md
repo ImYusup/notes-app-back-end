@@ -6,6 +6,7 @@ Here is repository Web Service Development with CRUD functions by Node.js to dep
 * Web Server by Node.js.
 * Web Framework by Hapi.
 * Prepare project to adding ESLint for make standard coding.
+* Ensure postman have installed to make sure check some features can work properly.
 * Ensure project github repository requirement have met with AWS. 
 * Place process manager EC2 instance to make sure web server always run.
 
