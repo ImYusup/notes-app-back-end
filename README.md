@@ -1,4 +1,4 @@
-# Notes-App-Back-End
+# Notes Backend Application
 
 Here is repository Web Service Development with CRUD functions by Node.js to deploy into AWS.
 
