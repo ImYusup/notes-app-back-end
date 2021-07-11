@@ -10,7 +10,7 @@ Here is repository Web Service Development with CRUD functions by Node.js to dep
 * Ensure project github repository requirement have met with AWS. 
 * Place process manager EC2 instance to make sure web server always run.
 
-**Live demo as shown below result :**
-1. Visit this link : https://bit.ly/3hQIUmc 
+**Here demo step's as shown below :**
+1. Visit this link [API-Client](http://notesapp-v1.dicodingacademy.com/) 
 2. Change URL into AWS IP Public : http://http://54.151.160.124:5000/
 3. CRUD functions is works, please try. :)
