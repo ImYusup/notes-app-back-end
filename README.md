@@ -12,5 +12,5 @@ Here is repository Web Service Development with CRUD functions by Node.js to dep
 
 **Here demo step's as shown below :**
 1. Visit this link [API-Client](http://notesapp-v1.dicodingacademy.com/) 
-2. Change URL into AWS IP Public : http://http://54.151.160.124:5000/
+2. Change URL into AWS IP Public : http://54.151.160.124:5000/
 3. CRUD functions is works, please try. :)
